@@ -2,21 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-.bgDesktop{
-  background-image: url("./assets/destination/background-destination-desktop.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.bgTablet{
-  background-image: url("./assets/destination/background-destination-tablet.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.bgMobile{
-  background-image: url("./assets/destination/background-destination-mobile.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+
 
 
 
@@ -131,7 +117,7 @@
     font-weight: 200;
     font-style: normal;
   }
-      
+  
 
-
-
+  
+  
